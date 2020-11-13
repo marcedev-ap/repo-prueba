@@ -1,3 +1,3 @@
 # repo-prueba
 
-Texto agregado
+Texto agregado.
